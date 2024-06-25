@@ -1,4 +1,4 @@
-# README
+# DSC F28379D Digital Integration Lab1-2-3 (PWM, ADC, PWM+ADC, Current Regulation) 4 quadrant chopper
 
 ## Overview
 
